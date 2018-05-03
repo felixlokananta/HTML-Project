@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"reset",
+				"resetGame"
+			],
+			[
+				"fun",
+				"function_with_name"
+			],
+			[
+				"hard",
+				"hardBtn"
+			],
+			[
+				"funct",
+				"function_without_name"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"function",
+				"function_with_name"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"colo",
+				"colorSum"
+			],
+			[
+				"rand",
+				"randomIndex"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"pick",
+				"pickColor"
+			],
+			[
+				"functi",
+				"function_with_name"
+			],
+			[
+				"func",
+				"Function\t( paramsAndBody_..: string ): Function Function"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"backgroundCo",
+				"backgroundColor"
+			],
+			[
+				"st",
+				"style\t Style CSS"
+			],
+			[
+				"squa",
+				"squares"
+			],
+			[
+				"sq",
+				"squares"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ful",
+				"fullName"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 236.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/TodoListProject/TodoList.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/colorgame.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/css/colorgame.css",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/js/colorgame.js",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/scorekeeper.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/js/scorekeeper.js",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/for.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/js/for.js",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/js/annoying.js",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/annoying.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/js/test_script.js",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/index.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/gallery.css",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/gallery.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/purrfect.css",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/purrfect_index.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/navbar.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/css/bootstrap.css",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/styleFonts.css",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/blog.css",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/blog.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/photogrid.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/photo.css",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/imageLinks.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/tictactoe.css",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/tictactoe.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/selectorsExercise.html",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/selectors_guide.css",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/selectors.css",
+		"/C/Users/Felix/Dropbox/UMN Work/HTML/specificity.html",
+		"/D/Complete Web Developer Course/page2.html",
+		"/D/Complete Web Developer Course/forms.html",
+		"/D/Complete Web Developer Course/divandspan.html",
+		"/D/Complete Web Developer Course/quiz2.html",
+		"/D/Complete Web Developer Course/pokemonchart.html",
+		"/D/Complete Web Developer Course/pokemondata.txt"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "todolist_project.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

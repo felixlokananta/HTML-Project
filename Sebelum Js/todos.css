@@ -1,0 +1,19 @@
+body {
+	background: orange;
+}
+
+li {
+	border: 2px red solid;
+}
+
+/*ini buat seh id*/
+/*id cm bisa buat satu*/
+#special {
+	color: green;
+	background-color: blue;
+}
+/*ini buat seh class*/
+/*class bisa buat brp x ga cuma satu kali.*/
+.completed {
+	text-decoration: line-through;
+}

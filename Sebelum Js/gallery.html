@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image Gallery</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="gallery.css">
+
+	<script src="https://use.fontawesome.com/16ec0b3304.js"></script>
+	<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+	<script type="text/javascript" src="js/salvattore.min.js"></script>
+</head>
+<body>
+
+	<!-- the Colors
+	Dark Blue: #2c3e50
+	Light Gray: #ecf0f1 
+	Masih Kurnang Icon, sama betulin warna, sama bikin grid nya bisa beda2
+	-->
+	<script
+	  src="https://code.jquery.com/jquery-3.2.1.js"
+	  integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+	  crossorigin="anonymous"></script>
+	<script type="text/javascript" src="js/popper.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+
+
+	<!-- navbar -->
+	<nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+		<div class="container">
+			<!-- navbar header -->
+			<div class="navbar-header">
+				<a href="#" class="navbar-brand"><i class="fa fa-picture-o fa-lg"></i> IMGS</a>
+			</div>
+
+			<!-- Button hamburger -->
+			<div>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+			</div>
+			
+
+			<!-- nav bar item -->
+			<div class=" collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav">
+					<li class="nav-item"><a class="nav-link" href="#">About</a></li>
+					<li class="nav-item"><a class="nav-link" href="#">Contact</a></li>	
+				</ul>
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item"><a class="nav-link" href="#">Sign Up</a></li>	
+					<li class="nav-item"><a class="nav-link" href="#">Login</a></li>	
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<!-- jumbotron -->
+	<div class="container" >
+		<div class="jumbotron">
+			<h1><i class="fa fa-camera-retro fa-lg"></i> The Image Gallery</h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</div>
+		<div data-coloumns="3">
+			<div class="column size-1of3">
+				<!-- <div class="col-lg-12"> -->
+					<img class="img-thumbnail" src="https://source.unsplash.com/LHdST1-f2bc">	
+				<!-- </div> -->
+				<!-- <div class="col-lg-12"> -->
+					<img class="img-thumbnail" src="https://source.unsplash.com/ZqAyGsxJbgI">	
+				<!-- </div> -->
+				<!-- <div class="col-lg-12"> -->
+					<img class="img-thumbnail" src="https://source.unsplash.com/m2J105CzEAU">	
+				<!-- </div> -->
+			</div>
+		</div>
+
+		<div data-coloumns="3">
+			<div class="column size-1of3">
+				<!-- <div class="col-lg-12"> -->
+					<img class="img-thumbnail" src="https://source.unsplash.com/x00Y74m1Kxs">	
+				<!-- </div> -->
+				<!-- <div class="col-lg-12"> -->
+					<img class="img-thumbnail" src="https://source.unsplash.com/anxRjLPEeyE">	
+				<!-- </div> -->
+				<!-- <div class="col-lg-12"> -->
+					<img class="img-thumbnail" src="https://source.unsplash.com/BghGseQbAkA">	
+				<!-- </div> -->
+			</div>
+		</div>
+
+		<div  data-coloumns="3">
+			<div class="column size-1of3">
+				<!-- <div class="col-lg-12"> -->
+					<img class="img-thumbnail" src="https://source.unsplash.com/NkEH30uoe8o">	
+				<!-- </div> -->
+				<!-- <div class="col-lg-12"> -->
+					<img class="img-thumbnail" src="https://source.unsplash.com/ijXhTL3_VfA">	
+				<!-- </div> -->
+				<!-- <div class="col-lg-12"> -->
+					<img class="img-thumbnail" src="https://source.unsplash.com/ssbgw3cKdXg">	
+					<img class="img-thumbnail" src="https://source.unsplash.com/QGk63wprbpY">	
+				<!-- </div> -->
+			</div>
+		</div>
+
+		
+
+		<!-- awal -->
+		<!-- <div class="row">
+			<div class="col-lg-4 col-sm-6">
+				<img class="img-thumbnail" src="https://source.unsplash.com/LHdST1-f2bc">	
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<img class="img-thumbnail" src="https://source.unsplash.com/x00Y74m1Kxs">	
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<img class="img-thumbnail" src="https://source.unsplash.com/NkEH30uoe8o">	
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<img class="img-thumbnail" src="https://source.unsplash.com/ZqAyGsxJbgI">	
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<img class="img-thumbnail" src="https://source.unsplash.com/anxRjLPEeyE">	
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<img class="img-thumbnail" src="https://source.unsplash.com/ijXhTL3_VfA">	
+			</div>			
+			<div class="col-lg-4 col-sm-6">
+				<img class="img-thumbnail" src="https://source.unsplash.com/m2J105CzEAU">	
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<img class="img-thumbnail" src="https://source.unsplash.com/BghGseQbAkA">	
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<img class="img-thumbnail" src="https://source.unsplash.com/ssbgw3cKdXg">	
+			</div>
+		</div> -->
+	</div>
+	
+
+</body>
+</html>

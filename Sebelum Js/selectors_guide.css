@@ -1,0 +1,37 @@
+/*Element*/
+li {
+
+}
+
+/*class*/
+.hello{
+
+}
+/*id*/
+#name {
+
+}
+/*star (select everything on the page)*/
+* {
+	border: 1px solid lightgrey;
+}
+
+/*descendant selector*/
+/*pilih anchor link yg ada di dalem list*/
+li a {
+	color: red;
+}
+
+/*adjacent selector*/
+/*pilih ul setelah dari seh h4 bukan nested*/
+h4 + ul {
+	border: 1px red solid;
+}
+
+/*attribute selector*/
+/*pilih attribute dari tag anchor link yang nuju ke seh google.com*/
+a[href="http://www.google.com"] {
+	background-color: blue;
+}
+
+/*nth of type*/

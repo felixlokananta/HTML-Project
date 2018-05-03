@@ -1,0 +1,25 @@
+body {
+	padding-top: 70px;	
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background-color: #ecf0f1;
+}
+
+.navbar-expand-lg {
+	background-color: #2c3e50; 
+	/*color: #ecf0f1;*/
+}
+
+.navbar-dark .navbar-nav .nav-link  {
+	color: white;
+}
+
+#grid[data-columns]::before {
+	content: '3 .column.size-1of3';
+}
+
+/* These are the classes that are going to be applied: */
+.column { float: left; }
+.size-1of3 { width: 33.333%; }
